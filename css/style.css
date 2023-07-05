@@ -1,0 +1,29 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.2rem;
+}
+
+table {
+  min-width: 60rem;
+  border-spacing: 0px;
+  border-collapse: collapse;
+  vertical-align: top;
+}
+
+table > thead {
+  background-color: #eeeeee
+}
+
+table, th, td {
+  border: 0.1rem solid;
+  padding: 0.2rem 0.3rem;
+  vertical-align: top;
+}
+
+strong {
+  font-size: 1.44rem;
+  text-decoration: underline;
+}
